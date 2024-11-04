@@ -9,6 +9,8 @@ let number = prompt("Сан енгізіңіз:");
 
 console.log(number >= 10 && number <= 20); 
 
+
+
 let num1 = -5;
 let num2 = 10; 
 
