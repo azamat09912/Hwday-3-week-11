@@ -3,7 +3,7 @@ function word(soz1, soz2) {
 }
 
 
-let soz1 = prompt("Birinshi soz");
-let soz2 = prompt("ekinshi soz");
-alert(word(soz1, soz2));
+let soz1 = prompt("Birinshi soz")
+let soz2 = prompt("ekinshi soz")
+alert(word(soz1, soz2))
 
